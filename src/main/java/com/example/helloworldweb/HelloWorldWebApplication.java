@@ -17,6 +17,6 @@ public class HelloWorldWebApplication {
 
 	@GetMapping
 	String greet() {
-		return "Hello World - V3";
+		return "Hello World - V4";
 	}
 }
